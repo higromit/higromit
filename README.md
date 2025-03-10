@@ -1,16 +1,48 @@
-## Hi there 👋
+###  Hi, I’m Suhyeon Kim.
+-------------
 
-<!--
-**higromit/higromit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I double majored in Computer Science and Engineering.    
+👀 My focus is on Backend development, especially with languages like Java and      
+  frameworks like Spring.    
+🔧 I have project experience using Java, Spring, Spring Security etc.
 
-Here are some ideas to get you started:
+ &nbsp; 
+ &nbsp; 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+:green_book:**Tech Stack**:green_book:
+
+![Java](https://img.shields.io/badge/Java-FAD59B?style=flat-circle&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/Python-B9F6A4?style=flat-circle&logo=python&logoColor=white)
+
+
+![Spring](https://img.shields.io/badge/Spring-FDF3B5?style=flat-circle&logo=spring&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-FDF3B5?style=flat-circle&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-FDF3B5?style=flat-circle&logo=spring&logoColor=white)
+
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-FBEE7E?style=flat-circle&logo=mysql&logoColor=white)
+
+ &nbsp; 
+ 
+ #### :telephone_receiver: **Contact** 
+ 
+[![devsuhyeon13@gmail.com](https://img.shields.io/badge/devsuhyeon13@gmail.com-FFFF00?style=flat-circle&logo=mysql&logoColor=white)](mailto:devsuhyeon13@gmail.com)
+
+ &nbsp; 
+ 
+ :open_file_folder: **Experiences**
+
+
+- Graduation project : [Tastylog](https://github.com/higromit/tastylog) &nbsp;&nbsp;|&nbsp;&nbsp;   2024.01 ~ 2024.12.
+
+- NHN Academy 5th batch: [Book Store Team Project](https://github.com/nhnacademy-be5-t2m)&nbsp;&nbsp;|&nbsp;&nbsp;2024.01.02 ~ 2024.05.23
+
+
+- Idea Collathon at CNU&nbsp;&nbsp;|&nbsp;&nbsp;2023.12.09 ~ 2023.12.09
+
+- Started double major in Computer Science and Engineering&nbsp;&nbsp;|&nbsp;&nbsp;2023.03 ~
+
+    
+
+    
