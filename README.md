@@ -27,7 +27,7 @@
  
  #### :telephone_receiver: **Contact** 
  
-[![suhyeon.kim127@gmail.com](https://img.shields.io/badge/devsuhyeon13@gmail.com-FFFF00?style=flat-circle&logo=mysql&logoColor=white)](mailto:suhyeon.kim127@gmail.com)
+[![suhyeon.kim127@gmail.com](https://img.shields.io/badge/suhyeon.kim127@gmail.com-FFFF00?style=flat-circle&logo=mysql&logoColor=white)](mailto:suhyeon.kim127@gmail.com)
 
  &nbsp; 
  
