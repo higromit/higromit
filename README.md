@@ -1,10 +1,14 @@
 ###  Hi, I’m Suhyeon Kim.
 -------------
 
-🎓 I double majored in Computer Science and Engineering.    
-👀 My focus is on Backend development, especially with languages like Java and      
-  frameworks like Spring.    
-🔧 I have project experience using Java, Spring, Spring Security etc.
+### Hi, I’m Suhyeon Kim 👋
+-----------------------------
+
+🎓 Double majored in Computer Science and Engineering.  
+🎨 Product Designer focused on creating user-centered experiences grounded in technical understanding.  
+🔍 I design products by deeply understanding how systems work — from APIs to user flows.  
+🤝 Comfortable collaborating with engineers using shared technical language.
+
 
  &nbsp; 
  &nbsp; 
