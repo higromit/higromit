@@ -1,9 +1,6 @@
 ###  Hi, I’m Suhyeon Kim.
 -------------
 
-### Hi, I’m Suhyeon Kim 👋
------------------------------
-
 🎓 Double majored in Computer Science and Engineering.  
 🎨 Product Designer focused on creating user-centered experiences grounded in technical understanding.  
 🔍 I design products by deeply understanding how systems work — from APIs to user flows.  
