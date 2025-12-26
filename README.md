@@ -12,7 +12,23 @@
  &nbsp; 
  &nbsp; 
 
- 
+ 📘**HCI & UX Background**📘
+
+🎓 With a background in Computer Science and Engineering,  
+I studied HCI to understand how users perceive, interact with, and experience technology.
+
+- **Human–Computer Interaction**  
+  → Mental & Conceptual Models, Affordance, Safety, Needfinding  
+     Heuristic Evaluation, Hick’s Law, UI/UX/CX principles, Contextual Inquiry...etc  
+
+- **Adventure Design**  
+  → Design Thinking, Customer Journey Mapping,  
+     Prototyping, and collaborative problem-solving...etc
+
+ &nbsp; 
+ &nbsp; 
+
+
 :green_book:**Tech Stack**:green_book:
 
 ![Java](https://img.shields.io/badge/Java-FAD59B?style=flat-circle&logo=openjdk&logoColor=white)  ![Python](https://img.shields.io/badge/Python-B9F6A4?style=flat-circle&logo=python&logoColor=white)
